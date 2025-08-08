@@ -2,6 +2,7 @@
 
 An end-to-end data analytics project analyzing the top UK YouTube influencers in 2024.  
 Includes Python-based YouTube Data API extraction, SQL data validation, and an interactive Power BI dashboard with ROI and profitability analysis.
+![kaggle_to_powerbi](https://github.com/user-attachments/assets/347f3334-d99d-41ec-b281-5b4625ac5f64)
 
 ## YouTube Analytics Dashboard – UK Influencers
 An end-to-end data analysis project combining **Python**, **SQL**, and **Power BI** to analyze the top YouTube influencers in the United Kingdom for 2024.  
