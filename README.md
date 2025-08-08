@@ -17,7 +17,7 @@ The workflow integrates data from [Kaggle’s Top 100 Social Media Influencers 2
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Project Overview](#project-overview)  
 - [Project Scope](#project-scope)  
 - [Business Objective](#business-objective)  
@@ -153,7 +153,7 @@ It demonstrates the full workflow from a public dataset to actionable analytics.
 ---
 
 ## Built With
-- Python (`pandas`, `google-api-python-client`, `python-dotenv`)  
+- Python (`pandas`, `google-api-python-client`)  
 - SQL Server  
 - Power BI Desktop  
 - Excel  
